@@ -1,0 +1,37 @@
+.hero {
+    padding: 20rem 0;
+}
+.hero__btn {
+  display: flex;
+  align-items: center;
+  border: .3rem solid #000;
+  max-width: max-content;
+  padding: .5rem 1rem .5rem 2rem;
+  border-radius: 3rem;
+  transition: all .3s ease-in-out;
+}
+.hero__btn span {
+    font-size: 1.6rem;
+    margin-right: 2rem;
+    transition: all .3s ease-in-out;
+    font-family: var(--main-font-bold);
+}
+.hero__btn svg {
+   width: 3rem;
+}
+@media screen and (min-width: 1024px)  {
+    .hero__btn:hover span {
+        margin-right: 12rem;
+    }
+
+    .hero__btn {
+      padding: 1rem 2rem 1rem 3rem;
+    }
+    .hero__btn span {
+        font-size: 2rem;
+        margin-right: 5rem;
+    }
+    .hero__btn svg {
+       width: 4rem;
+    }
+}

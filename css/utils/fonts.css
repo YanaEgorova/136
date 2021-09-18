@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Roboto Mono';
+    src: url('../../fonts/RobotoMono-Light.eot');
+    src: url('../../fonts/RobotoMono-Light.eot') format('embedded-opentype'),
+        url('../../fonts/RobotoMono-Light.woff2') format('woff2'),
+        url('../../fonts/RobotoMono-Light.woff') format('woff'),
+        url('../../fonts/RobotoMono-Light.ttf') format('truetype'),
+        url('../../fonts/RobotoMono-Light.svg') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Vanguard CF';
+    src: url('../../fonts/VanguardCF-Heavy.eot');
+    src: url('../../fonts/VanguardCF-Heavy.eot') format('embedded-opentype'),
+        url('../../fonts/VanguardCF-Heavy.woff2') format('woff2'),
+        url('../../fonts/VanguardCF-Heavy.woff') format('woff'),
+        url('../../fonts/VanguardCF-Heavy.ttf') format('truetype'),
+        url('../../fonts/VanguardCF-Heavy.svg') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Mono Medium';
+    src: url('../../fonts/RobotoMono-Medium.eot');
+    src: url('../../fonts/RobotoMono-Medium.eot') format('embedded-opentype'),
+        url('../../fonts/RobotoMono-Medium.woff2') format('woff2'),
+        url('../../fonts/RobotoMono-Medium.woff') format('woff'),
+        url('../../fonts/RobotoMono-Medium.ttf') format('truetype'),
+        url('../../fonts/RobotoMono-Medium.svg') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Mono Bold';
+    src: url('../../fonts/RobotoMono-Bold.eot');
+    src: url('../../fonts/RobotoMono-Bold.eot') format('embedded-opentype'),
+        url('../../fonts/RobotoMono-Bold.woff2') format('woff2'),
+        url('../../fonts/RobotoMono-Bold.woff') format('woff'),
+        url('../../fonts/RobotoMono-Bold.ttf') format('truetype'),
+        url('../../fonts/RobotoMono-Bold.svg') format('svg');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+

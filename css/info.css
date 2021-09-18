@@ -1,0 +1,13 @@
+.info__wrapper   {
+}
+.info {
+   padding: 15rem 0;
+}
+.info .item:not(:last-child) {
+   margin-bottom: 10rem;
+}
+@media screen and (min-width: 1024px)  {
+
+}
+
+
